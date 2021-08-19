@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @ShivranjR
+- 👋 Hi, I’m @5vil
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning java
+- 🌱 I’m currently learning HTML
 - 💞️ I’m looking to collaborate on nothing 
 - 📫 How to reach me - gmail - 5vil2412@gmail.com
 
