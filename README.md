@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @5vil
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning HTML
-- 💞️ I’m looking to collaborate on nothing 
-- 📫 How to reach me - gmail - 5vil2412@gmail.com
+Hi, I’m @shivranj108
+Currently studying python in school, nothing to see here
 
 <!---
 ShivranjR/ShivranjR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
